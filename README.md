@@ -8,6 +8,7 @@ En esta práctica se elabora un caso práctico orientado a aprender a identifica
 Encontrar las variables más importantes para predecir la calidad del vino basado en datos fisicoquímicos.
 
 ## DataSet: 
+https://github.com/RossyMiranda/Pr-ctica-2-Limpieza-y-an-lisis-de-datos/blob/main/Data
 
 # Miembros del Equipo
 
