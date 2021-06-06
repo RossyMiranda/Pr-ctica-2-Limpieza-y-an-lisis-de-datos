@@ -24,7 +24,6 @@ Es el notebook que contiene el código Phyton que permite relaciona a la prácti
 
 https://github.com/RossyMiranda/Pr-ctica-2-Limpieza-y-an-lisis-de-datos/tree/main/code
 
-Con el nombre 
+Con el nombre: PRACTICA2-rmirandac.ipynb
 
-Con respecto a la contestación de las preguntoas de la práctica se encuentra en la siguiente dirección:. 
-Práctica1_rmirandac.pdf:
+Con respecto a la contestación de las preguntoas de la práctica se encuentra con el nombre  
