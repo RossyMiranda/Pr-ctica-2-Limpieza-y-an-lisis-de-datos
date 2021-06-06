@@ -4,7 +4,9 @@ Descripción
 En esta práctica se elabora un caso práctico orientado a aprender a identificar los datos relevantes para un proyecto analítico y usar las herramientas de integración, limpieza, validación y análisis de las mismas, para la asignatura de Tipología y ciclo de vida de los datos, del Máster Universitario en Ciencia de datos (Data science) de la Universidad UOC.
 
 ## Fuente:   https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
-## Objetivo:  Encontrar las variables más importantes para predecir la calidad del vino basado en datos fisicoquímicos.
+## Objetivo: 
+Encontrar las variables más importantes para predecir la calidad del vino basado en datos fisicoquímicos.
+
 ## DataSet: 
 
 # Miembros del Equipo
