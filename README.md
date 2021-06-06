@@ -26,4 +26,4 @@ https://github.com/RossyMiranda/Pr-ctica-2-Limpieza-y-an-lisis-de-datos/tree/mai
 
 Con el nombre: PRACTICA2-rmirandac.ipynb
 
-Con respecto a la contestación de las preguntoas de la práctica se encuentra con el nombre  
+Con respecto a la contestación de las preguntoas de la práctica se encuentra con el nombre  PRACTICA2-rmirandac.pdf
