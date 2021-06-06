@@ -22,7 +22,9 @@ Rosa María Miranda Castro
 
 Es el notebook que contiene el código Phyton que permite relaciona a la práctica de la limpieza y análisis de datos, se encuentra en la siguiente dirección:
 
-src/PRACTICA2-rmirandac.ipynb: 
+https://github.com/RossyMiranda/Pr-ctica-2-Limpieza-y-an-lisis-de-datos/tree/main/code
+
+Con el nombre 
 
 Con respecto a la contestación de las preguntoas de la práctica se encuentra en la siguiente dirección:. 
 Práctica1_rmirandac.pdf:
