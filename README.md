@@ -8,13 +8,11 @@ El objetivo de estudiar el dataset winequality-red.csv, es encontrar las variabl
 ## Fuente:   https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 
 ## DataSet:
-Para revisar el dataset input se ingresa en la siguiente dirección:
+Para revisar los datasets input y output se ingresa en la siguiente dirección:
 
-https://github.com/RossyMiranda/Pr-ctica-2-Limpieza-y-an-lisis-de-datos/blob/main/Data
+https://github.com/RossyMiranda/Pr-ctica-2-Limpieza-y-an-lisis-de-datos/tree/main/Data
+output
 
-Para revisar el dataset output se ingresa en la siguiente dirección:
-
-https://github.com/RossyMiranda/Pr-ctica-2-Limpieza-y-an-lisis-de-datos/blob/main/Data
 
 # Miembros del Equipo
 
